@@ -1,5 +1,5 @@
 # index
-McWest code repos
+# McWest code repos
 
 [Angular styleguide](http://github.com/mcwest/angularjs-styleguide)
 
