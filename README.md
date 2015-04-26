@@ -1,7 +1,7 @@
 # index
-directory to McWest code repos
+McWest code repos
 
-Angular styleguide
+[Angular styleguide](http://github.com/mcwest/angularjs-styleguide)
 
 Angular demo app related to styleguide
 
